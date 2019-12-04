@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.rfideas.node.BadgeScanTest" duration-ms="835" started-at="2019-11-04T22:49:56Z" finished-at="2019-11-04T22:49:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="835" started-at="2019-11-04T22:49:56Z" finished-at="2019-11-04T22:49:57Z">
+      <class name="com.rfideas.node.BadgeScanTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.rfideas.node.BadgeScanTest@754ba872]" name="before" is-config="true" duration-ms="703" started-at="2019-11-04T14:49:56Z" finished-at="2019-11-04T14:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testProcessWithFalseOutcome()[pri:0, instance:com.rfideas.node.BadgeScanTest@754ba872]" name="testProcessWithFalseOutcome" duration-ms="113" started-at="2019-11-04T14:49:57Z" finished-at="2019-11-04T14:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProcessWithFalseOutcome -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.rfideas.node.BadgeScanTest@754ba872]" name="before" is-config="true" duration-ms="3" started-at="2019-11-04T14:49:57Z" finished-at="2019-11-04T14:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testProcessWithTrueOutcome()[pri:0, instance:com.rfideas.node.BadgeScanTest@754ba872]" name="testProcessWithTrueOutcome" duration-ms="5" started-at="2019-11-04T14:49:57Z" finished-at="2019-11-04T14:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProcessWithTrueOutcome -->
+      </class> <!-- com.rfideas.node.BadgeScanTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.rfideas.node.BadgeScanTest -->
+</testng-results>
